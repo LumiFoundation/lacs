@@ -23,7 +23,7 @@ This standard applies to digital assets, including but not limited to:
 
 This standard does not apply to:
 
-*   Complete games or applications.
+*   Complete video games or applications.
 *   Software tools or engines used for asset creation.
 
 ## 3. Classification Levels
@@ -47,7 +47,6 @@ The asset was created primarily or entirely by AI, with minimal human input beyo
 The following guidelines should be considered when classifying assets under the LACS standard:
 
 *   **Focus on the Creative Process and Intent:** The classification should reflect the creative process used to create the asset, specifically the degree and nature of human vs AI involvement, and the overall creative intent behind the asset.
-*   **Significant Contribution:** For the "AI-Assisted" category (`LACS-A`), both human and AI contributions should be significant and contribute meaningfully to the final asset's form, content, and aesthetic.
 *   Use of **Inconsequential Algorithmic Elements (IAEs)**, which is defined as an element (asset, technique, method, resource) that does not contribute significantly to the asset's unique creative expression, aesthetic, or meaning. The key to identifying an IAE is that its usage does not reflect any creative intent or artistic decision-making. These elements are typically simple, repetitive, or serve a purely functional purpose. They could be easily replicated by a human without specialized skill or replaced with similar elements without impacting the overall artistic intent. Even if AI is used to generate or manipulate these elements, their creation is considered inconsequential to the creative process.
 
     **Examples of IAEs:**
@@ -69,7 +68,7 @@ The following guidelines should be considered when classifying assets under the 
 
 *   **Transparency:** Creators should err on the side of transparency and choose the classification that most accurately reflects the asset's origin.
 *   **Good Faith:** Creators are expected to make classifications in good faith.
-*   **When in Doubt:** Classify the asset in the higher category (e.g., if unsure whether an asset is `LACS-H` or `LACS-A`, classify it as `LACS-A`).
+*   **When in Doubt:** Classify the asset towards `LACS-A` (e.g., if unsure whether an asset is `LACS-H` or `LACS-A`, classify it as `LACS-A`).
 *   **Legal Compliance:** Creators are responsible for ensuring they have the necessary rights and permissions to use any AI tools or AI-generated content in their asset creation process. They must also ensure they have the right to distribute the resulting assets under the chosen license. It is the creator's responsibility to understand and comply with all applicable laws and regulations related to copyright, intellectual property, and the use of AI in creative work.
 
 ### 4.1. Complex assets and collections
@@ -125,8 +124,6 @@ LACS is an independent standard focused on classifying the creative process behi
 For example, Content Credentials (C2PA) is a standard focused on verifying the authenticity and provenance of media to combat misinformation. While LACS classifies how an asset was made, Content Credentials provide a tamper-evident record of its edit history. LACS does not address whether an asset has been tampered with or manipulated, only the role of humans and AI in the initial creation process.
 
 Creators and platforms may choose to use LACS alongside other relevant standards to provide a more comprehensive understanding of their digital assets. The maintainers of LACS are open to collaborating with other standards organizations to further develop and promote transparency in digital asset creation and usage.
-
-LACS-labeled assets can support a creative work's OSST classification. Please refer to the Open Standard for Synthetic Transparency for further details.
 
 ## 8. Legal Considerations
 

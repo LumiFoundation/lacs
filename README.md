@@ -4,7 +4,12 @@
 
 **LACS** is developed and maintained by the [Lumi Foundation](https://lumif.org/), a non-profit organization dedicated to consumer-focused AI.
 
-[lacs.md](lacs.md)
+Website: [lacslabel.org](https://lacslabel.org)
+
+Latest version: [LACS on lumif.org](https://lumif.org/std-spec/lacs-1.0.0/)
+
+Latest draft: [lacs.md](lacs.md)
+
 
 ## How to Use LACS
 
